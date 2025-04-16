@@ -3,3 +3,4 @@ Second line function npm lalala
 
 фича фича и не баг
 пятая строка
+фича готова и доделана
